@@ -18,7 +18,8 @@
 
 **- Explorer: [click](https://testnet.itrocket.net/warden/staking)**
 
-**-Server Requirements:**
+
+##Server Requirements:
 
 **- CPU: 4 cores;**-
 
