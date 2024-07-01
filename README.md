@@ -48,7 +48,7 @@ sudo apt install curl git git wget hget htop tmux build-essential jq make lz4 gc
 source <(curl -s https://itrocket.net/api/testnet/warden/autoinstall/)
 ```
 
-**The script will open automatically. Specify the name of the wallet, the name of the node (moniker), leave the port as default (26). The software installation will start.
+**The script will open automatically. Specify the name of the wallet, the name of the node (moniker), leave the port as default (26). The software installation will start.**
 
 **4. As soon as the Height's will be displayed, exit the logs display menu using the CTRL+C**
 
